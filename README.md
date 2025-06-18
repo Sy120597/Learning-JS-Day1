@@ -1,2 +1,2 @@
 # Learning-JS-Day1
-Alert button 
+Adding Buttons And making them functional (Alert button) 
